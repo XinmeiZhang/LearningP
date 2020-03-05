@@ -4,7 +4,6 @@ b= input()
 c= int(a)+int(b)
 print(c)
 
-
 for i in range(5):
     print(c)
     
@@ -13,4 +12,4 @@ if a == b:
 else:
         print("awww")
 
-list(ran) 
+
